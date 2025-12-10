@@ -1,0 +1,190 @@
+siar1238,Siar-Lak,Papunesia,-4.62059,152.892,siar1238,sjr,aust1307,Austronesian
+maka1311,Makasar,Papunesia,-5.65551,119.838,maka1311,mak,aust1307,Austronesian
+boik1241,Boikin,Papunesia,-3.68297,143.474,boik1241,bzf,nduu1242,Ndu
+nucl1620,Wahgi,Papunesia,-6.11629,144.665,nucl1620,wgi,nucl1709,Nuclear Trans New Guinea
+iwam1256,Iwam,Papunesia,-4.27346,141.817,iwam1256,iwm,sepi1257,Sepik
+dera1245,Dera (Indonesia),Papunesia,-3.52309,140.947,dera1245,kbv,sena1264,Senagi
+irar1238,Irarutu,Papunesia,-2.94438,133.586,irar1238,irh,aust1307,Austronesian
+nucl1634,Skou,Papunesia,-2.64378,140.902,nucl1634,skv,skoo1245,Sko
+iaai1238,Iaai,Papunesia,-20.6301,166.59,iaai1238,iai,aust1307,Austronesian
+surs1246,Sursurunga,Papunesia,-3.99078,152.768,surs1246,sgz,aust1307,Austronesian
+ilok1237,Iloko,Papunesia,15.9361,120.993,ilok1237,ilo,aust1307,Austronesian
+tokp1240,Tok Pisin,Papunesia,-9.41971,147.303,tokp1240,tpi,indo1319,Indo-European
+abau1245,Abau,Papunesia,-3.97222,141.324,abau1245,aau,sepi1257,Sepik
+qaqe1238,Qaqet,Papunesia,-4.45258,151.702,qaqe1238,byx,bain1263,Baining
+yill1241,Yil,Papunesia,-3.46501,142.178,yill1241,yll,nucl1708,Nuclear Torricelli
+seim1238,Seimat,Papunesia,-1.5297,145.074,seim1238,ssg,aust1307,Austronesian
+keoo1238,Ke'o,Papunesia,-8.8704,121.256,keoo1238,xxk,aust1307,Austronesian
+bugi1244,Buginese,Papunesia,-4.47,119.977,bugi1244,bug,aust1307,Austronesian
+fasu1242,Fasu,Papunesia,-6.62687,143.284,fasu1242,faa,,
+ngad1261,Ngad'a,Papunesia,-8.79508,120.976,ngad1261,nxg,aust1307,Austronesian
+wamb1259,Wambon,Papunesia,-5.44334,140.48,wamb1259,wms,nucl1709,Nuclear Trans New Guinea
+ambo1250,Ambonese Malay,Papunesia,-3.71342,128.184,ambo1250,abs,aust1307,Austronesian
+sout2918,Southern Sama,Papunesia,4.755836,119.483887,sout2918,ssb,aust1307,Austronesian
+gras1249,Grass Koiari,Papunesia,-9.51218,147.437,gras1249,kbk,koia1260,Koiarian
+chua1250,Chuave,Papunesia,-6.17824,145.139,chua1250,cjv,nucl1709,Nuclear Trans New Guinea
+savo1255,Savosavo,Papunesia,-9.12853,159.814,savo1255,svs,,
+lara1260,Larantuka Malay,Papunesia,-8.4746,122.7619,lara1260,lrt,aust1307,Austronesian
+madi1261,Madi (Papua New Guinea),Papunesia,-5.63017,146.407,madi1261,grg,nucl1709,Nuclear Trans New Guinea
+tong1325,Tonga (Tonga Islands),Papunesia,-21.17,-175.25,tong1325,ton,aust1307,Austronesian
+tuka1248,Tukang Besi North,Papunesia,-5.30994,123.578,tuka1248,khc,aust1307,Austronesian
+usar1243,Usarufa,Papunesia,-6.38898,145.633,usar1243,usa,nucl1709,Nuclear Trans New Guinea
+bela1260,Lemeting,Papunesia,4.96207,114.933,bela1260,beg,aust1307,Austronesian
+yare1248,Yareba,Papunesia,-9.50651,148.605,yare1248,yrb,yare1250,Yareban
+fiji1243,Fijian,Papunesia,-18.0,178.33,fiji1243,fij,aust1307,Austronesian
+lusi1240,Lusi,Papunesia,-5.55033,149.148,lusi1240,khl,aust1307,Austronesian
+kuni1267,Kunimaipa,Papunesia,-8.09371,146.908,kuni1267,kup,goil1242,Goilalan
+gads1258,Gadsup,Papunesia,-6.31631,145.997,gads1258,gaj,nucl1709,Nuclear Trans New Guinea
+orok1269,Orokaiva,Papunesia,-8.79019,148.09,orok1269,okv,nucl1709,Nuclear Trans New Guinea
+keda1250,Kedayan,Papunesia,,,keda1250,kxd,aust1307,Austronesian
+adze1240,Adzera,Papunesia,-6.39394,146.294,adze1240,adz,aust1307,Austronesian
+sund1252,Sundanese,Papunesia,-6.89708,107.106,sund1252,sun,aust1307,Austronesian
+aran1237,Arandai,Papunesia,-2.08016,132.983,aran1237,jbj,sout1516,South Bird's Head Family
+teng1272,Tengger,Papunesia,-7.89069,113.037,teng1272,tes,aust1307,Austronesian
+kupa1239,Kupang Malay,Papunesia,-10.2526,123.63,kupa1239,mkn,aust1307,Austronesian
+dupa1235,Dupaninan Agta,Papunesia,17.3748,122.188,dupa1235,duo,aust1307,Austronesian
+roto1249,Rotokas,Papunesia,-5.94339,155.154,roto1249,roo,nort2933,North Bougainville
+gayo1244,Gayo,Papunesia,4.3733,97.3456,gayo1244,gay,aust1307,Austronesian
+mala1481,Manado Malay,Papunesia,1.48099,124.843,mala1481,xmm,aust1307,Austronesian
+baru1269,Baruga,Papunesia,-9.40132,148.761,baru1269,bjz,nucl1709,Nuclear Trans New Guinea
+cham1312,Chamorro,Papunesia,13.438011,144.74474,cham1312,cha,aust1307,Austronesian
+yaga1260,Yagaria,Papunesia,-6.32432,145.388,yaga1260,ygr,nucl1709,Nuclear Trans New Guinea
+nias1242,Nias,Papunesia,0.90691,97.4961,nias1242,nia,aust1307,Austronesian
+kuot1243,Kuot,Papunesia,-3.06952,151.537,kuot1243,kto,,
+samo1303,Samo,Papunesia,-6.15496,142.195,samo1303,smq,east2433,East Strickland
+west2600,West Makian,Papunesia,0.45332,127.63,west2600,mqs,nort2923,North Halmahera
+sout2949,Southern Kiwai,Papunesia,-8.64889,143.244,sout2949,kjd,kiwa1251,Kiwaian
+bali1278,Balinese,Papunesia,-8.35714,115.075,bali1278,ban,aust1307,Austronesian
+pate1247,Patep,Papunesia,-6.91988,146.639,pate1247,ptp,aust1307,Austronesian
+ambu1247,Ambulas,Papunesia,-3.7801,143.059,ambu1247,abt,nduu1242,Ndu
+adan1251,Adang,Papunesia,-8.18958,124.448,adan1251,adn,timo1261,Timor-Alor-Pantar
+hang1263,Hanga Hundi,Papunesia,-3.90364,142.849,hang1263,wos,nduu1242,Ndu
+ekar1243,Ekari,Papunesia,-3.88974,136.018,ekar1243,ekg,nucl1709,Nuclear Trans New Guinea
+kela1255,Kela (Papua New Guinea),Papunesia,-7.47103,147.173,kela1255,kcl,aust1307,Austronesian
+mara1404,Maranao,Papunesia,7.79414,124.175,mara1404,mrw,aust1307,Austronesian
+faiw1243,Faiwol,Papunesia,-5.4967,141.656,faiw1243,fai,nucl1709,Nuclear Trans New Guinea
+maor1246,Maori,Papunesia,-38.2881,176.541,maor1246,mri,aust1307,Austronesian
+bina1277,Binandere,Papunesia,-8.37433,147.884,bina1277,bhg,nucl1709,Nuclear Trans New Guinea
+imon1245,Imonda,Papunesia,-3.31228,141.171,imon1245,imn,bord1247,Border
+kama1365,Kamang,Papunesia,-8.26897,124.792,kama1365,woi,timo1261,Timor-Alor-Pantar
+coco1260,Cocos Islands Malay,Papunesia,-12.193342,96.833679,coco1260,coa,aust1307,Austronesian
+mian1257,Mianmin,Papunesia,,,mian1257,mpt,nucl1709,Nuclear Trans New Guinea
+kris1246,I'saka,Papunesia,-2.80084,141.303,kris1246,ksi,skoo1245,Sko
+fwai1237,Fwâi,Papunesia,-20.6873,164.901,fwai1237,fwa,aust1307,Austronesian
+kond1303,Konda,Papunesia,-1.82635,132.06,kond1303,knd,kond1302,Konda-Yahadian
+mori1268,Mori Bawah,Papunesia,-2.56016,121.37,mori1268,xmz,aust1307,Austronesian
+cebu1242,Cebuano,Papunesia,8.38799,124.367,cebu1242,ceb,aust1307,Austronesian
+tern1247,Ternate,Papunesia,0.80562,127.333,tern1247,tft,nort2923,North Halmahera
+sian1254,Siang,Papunesia,-0.38398,114.693,sian1254,sya,aust1307,Austronesian
+kamb1299,Kambera,Papunesia,-9.88447,120.235,kamb1299,xbr,aust1307,Austronesian
+amel1241,Amele,Papunesia,-5.29126,145.687,amel1241,aey,nucl1709,Nuclear Trans New Guinea
+ivat1242,Itbayat,Papunesia,20.3848,121.975,ivat1242,ivv,aust1307,Austronesian
+tetu1245,Tetum,Papunesia,-9.11217,125.528,tetu1245,tet,aust1307,Austronesian
+hili1240,Hiligaynon,Papunesia,10.4018,122.974,hili1240,hil,aust1307,Austronesian
+dobu1241,Dobu,Papunesia,-9.63239,150.825,dobu1241,dob,aust1307,Austronesian
+yess1239,Yessan-Mayo,Papunesia,-4.15721,142.574,yess1239,yss,sepi1257,Sepik
+pang1290,Pangasinan,Papunesia,15.9377,120.365,pang1290,pag,aust1307,Austronesian
+goli1247,Golin,Papunesia,-6.2249,144.8505,goli1247,gvf,nucl1709,Nuclear Trans New Guinea
+indo1316,Indonesian,Papunesia,-7.33458,109.716,indo1316,ind,aust1307,Austronesian
+bata1289,Batak Toba,Papunesia,2.35498,99.1761,bata1289,bbc,aust1307,Austronesian
+tinp1237,Tinputz,Papunesia,-5.58358,154.972,tinp1237,tpz,aust1307,Austronesian
+nucl1454,Yawa,Papunesia,-1.77196,136.263,nucl1454,yva,yawa1259,Yawa-Saweru
+nort2828,North Moluccan Malay,Papunesia,-0.86437,128.323,nort2828,max,aust1307,Austronesian
+bilu1245,Bilua,Papunesia,-7.92388,156.663,bilu1245,blb,,
+tata1257,Tatana,Papunesia,5.49808,115.553,tata1257,txx,aust1307,Austronesian
+taga1270,Tagalog,Papunesia,14.06,121.747,taga1270,tgl,aust1307,Austronesian
+sela1259,Selaru,Papunesia,-8.18376,130.961,sela1259,slu,aust1307,Austronesian
+awar1248,Awara,Papunesia,-6.16986,146.372,awar1248,awx,nucl1709,Nuclear Trans New Guinea
+hawa1245,Hawaiian,Papunesia,19.6297,-155.43,hawa1245,haw,aust1307,Austronesian
+buol1237,Buol,Papunesia,0.97727,121.519,buol1237,blf,aust1307,Austronesian
+hoav1238,Hoava,Papunesia,-8.19679,157.595,hoav1238,hoa,aust1307,Austronesian
+siss1243,Sissano,Papunesia,-3.01976,142.049,siss1243,sso,aust1307,Austronesian
+iban1264,Iban,Papunesia,2.09041,112.934,iban1264,iba,aust1307,Austronesian
+nucl1632,Sentani,Papunesia,-2.6013,140.512,nucl1632,set,sent1261,Sentanic
+malo1243,Tamambo,Papunesia,-15.6835,167.16,malo1243,mla,aust1307,Austronesian
+east2516,East Kewa,Papunesia,-6.32989,143.931,east2516,kjs,nucl1709,Nuclear Trans New Guinea
+idaa1241,Ida'an,Papunesia,5.29059,118.515,idaa1241,dbj,aust1307,Austronesian
+nucl1460,Madurese,Papunesia,-7.0,113.0,nucl1460,mad,aust1307,Austronesian
+vani1248,Vanimo,Papunesia,-2.68501,141.258,vani1248,vam,skoo1245,Sko
+pohn1238,Pohnpeian,Papunesia,6.87212,158.223,pohn1238,pon,aust1307,Austronesian
+nucl1633,Nimboran,Papunesia,-2.5803,140.179,nucl1633,nir,nimb1257,Nimboranic
+morb1239,Mor (Bomberai Peninsula),Papunesia,-2.85747,132.845,morb1239,moq,,
+sele1250,Selepet,Papunesia,-6.03532,147.234,sele1250,spl,nucl1709,Nuclear Trans New Guinea
+java1254,Javanese,Papunesia,-0.572307,110.885,java1254,jav,aust1307,Austronesian
+want1252,Wantoat,Papunesia,-6.15216,146.513,want1252,wnc,nucl1709,Nuclear Trans New Guinea
+biak1248,Biak,Papunesia,-0.9523,135.879,biak1248,bhw,aust1307,Austronesian
+ruka1240,Rukai,Papunesia,22.7738,120.844,ruka1240,dru,aust1307,Austronesian
+cent2087,Coastal-Naga Bikol,Papunesia,13.7574,123.403,cent2087,bcl,aust1307,Austronesian
+akla1241,Aklanon,Papunesia,11.5543,122.354,akla1241,akl,aust1307,Austronesian
+bari1286,Bariai,Papunesia,-5.5087,148.666,bari1286,bch,aust1307,Austronesian
+tsou1248,Tsou,Papunesia,23.216,120.787,tsou1248,tsu,aust1307,Austronesian
+maib1239,Maybrat-Karon,Papunesia,-1.3679,132.591,maib1239,ayz,,
+anga1290,Angaataha,Papunesia,-7.15012,146.352,anga1290,agm,anga1289,Angan
+taro1264,Seediq,Papunesia,23.9032,121.358,taro1264,trv,aust1307,Austronesian
+naas1242,Naasioi,Papunesia,-6.46022,155.632,naas1242,nas,sout2948,South Bougainville
+mana1295,Manam,Papunesia,-4.07921,145.033,mana1295,mva,aust1307,Austronesian
+koko1269,Kokota,Papunesia,-8.16481,159.191,koko1269,kkk,aust1307,Austronesian
+kora1295,Korafe,Papunesia,,,kora1295,kpr,nucl1709,Nuclear Trans New Guinea
+saba1265,Sa'ban,Papunesia,3.58723,115.664,saba1265,snv,aust1307,Austronesian
+anei1239,Aneityum,Papunesia,-20.1864,169.825,anei1239,aty,aust1307,Austronesian
+mufi1238,Mufian,Papunesia,-3.57932,142.955,mufi1238,aoj,nucl1708,Nuclear Torricelli
+kama1367,Kamasau,Papunesia,-3.8503,143.842,kama1367,kms,nucl1708,Nuclear Torricelli
+nami1256,Namia,Papunesia,-3.85538,141.788,nami1256,nnm,sepi1257,Sepik
+leti1246,Leti (Indonesia),Papunesia,-8.19808,127.674,leti1246,lti,aust1307,Austronesian
+awtu1239,Awtuw,Papunesia,-3.53129,141.928,awtu1239,kmn,sepi1257,Sepik
+taus1251,Tausug,Papunesia,5.12236,118.88,taus1251,tsg,aust1307,Austronesian
+loni1238,Loniu,Papunesia,-2.06124,147.35,loni1238,los,aust1307,Austronesian
+mina1268,Minangkabau,Papunesia,4.17,96.25,mina1268,min,aust1307,Austronesian
+band1353,Banda Malay,Papunesia,-4.55565,129.905,band1353,bpq,aust1307,Austronesian
+atay1247,Atayal,Papunesia,24.5209,121.388,atay1247,tay,aust1307,Austronesian
+lavu1241,Lavukaleve,Papunesia,-9.05569,159.119,lavu1241,lvk,,
+kima1246,Kimaama,Papunesia,-8.01899,138.355,kima1246,kig,kolo1268,Kolopom
+west2560,West Coast Bajau,Papunesia,6.00631,116.124,west2560,bdr,aust1307,Austronesian
+cent2092,Central Sama,Papunesia,7.004574,118.455978,cent2092,sml,aust1307,Austronesian
+pala1344,Palauan,Papunesia,7.34138,134.476678,pala1344,pau,aust1307,Austronesian
+urii1240,Uri,Papunesia,-6.41993,146.608,urii1240,uvh,nucl1709,Nuclear Trans New Guinea
+sasa1249,Sasak,Papunesia,-8.58349,116.284,sasa1249,sas,aust1307,Austronesian
+aman1265,Amanab,Papunesia,-3.51516,141.178,aman1265,amn,bord1247,Border
+suen1241,Suena,Papunesia,-7.76339,147.534,suen1241,sue,nucl1709,Nuclear Trans New Guinea
+kali1299,Kaliai,Papunesia,,,kali1299,khl,aust1307,Austronesian
+nank1250,Nankina,Papunesia,-5.80804,146.464,nank1250,nnk,nucl1709,Nuclear Trans New Guinea
+auuu1241,Au,Papunesia,-3.53277,142.105,auuu1241,avt,nucl1708,Nuclear Torricelli
+nort2845,North Marquesan,Papunesia,-8.89412,-140.108,nort2845,mrq,aust1307,Austronesian
+natu1246,Natügu,Papunesia,-10.6771,165.835,natu1246,ntu,aust1307,Austronesian
+sata1237,Satawalese,Papunesia,7.36084,147.038,sata1237,stw,aust1307,Austronesian
+usan1239,Usan,Papunesia,-4.84265,145.362,usan1239,wnu,nucl1709,Nuclear Trans New Guinea
+binu1245,Binumarien,Papunesia,-6.22068,146.102,binu1245,bjr,nucl1709,Nuclear Trans New Guinea
+tiga1245,Tigak,Papunesia,-2.70951,150.893,tiga1245,tgc,aust1307,Austronesian
+sout2895,South Nuaulu,Papunesia,-3.23411,129.148,sout2895,nxl,aust1307,Austronesian
+kwai1243,Kwaio,Papunesia,-8.93744,160.965,kwai1243,kwd,aust1307,Austronesian
+yape1248,Yapese,Papunesia,9.55811,138.125,yape1248,yap,aust1307,Austronesian
+waim1251,Waima,Papunesia,-8.67145,146.544,waim1251,rro,aust1307,Austronesian
+bata1293,Batak Karo,Papunesia,2.12787,98.2517,bata1293,btx,aust1307,Austronesian
+kwom1262,Kwoma,Papunesia,-4.08721,142.664,kwom1262,kmo,sepi1257,Sepik
+lowe1415,Lower Grand Valley Dani,Papunesia,-4.25684,138.992,lowe1415,dni,nucl1709,Nuclear Trans New Guinea
+muna1247,Muna,Papunesia,-5.40419,122.541,muna1247,mnb,aust1307,Austronesian
+alam1246,Alamblak,Papunesia,-4.66307,143.316,alam1246,amp,sepi1257,Sepik
+woge1237,Wogeo,Papunesia,-3.20238,144.089,woge1237,woc,aust1307,Austronesian
+indo1317,Indonesian Bajau,Papunesia,-3.68664,122.253,indo1317,bdl,aust1307,Austronesian
+iseb1246,Isebe,Papunesia,-5.20719,145.691,iseb1246,igo,nucl1709,Nuclear Trans New Guinea
+kala1377,Kala Lagaw Ya,Papunesia,-10.6748,142.196,kala1377,mwp,pama1250,Pama-Nyungan
+awiy1238,Awiyaana,Papunesia,-6.54079,145.76,awiy1238,auy,nucl1709,Nuclear Trans New Guinea
+kima1244,Kimaragang,Papunesia,6.61982,116.96,kima1244,kqr,aust1307,Austronesian
+mafe1237,Mafea,Papunesia,-15.4316,167.241,mafe1237,mkv,aust1307,Austronesian
+fili1244,Filipino,Papunesia,12.265,123.464,fili1244,fil,aust1307,Austronesian
+tiru1241,Tiruray,Papunesia,6.77321,124.127,tiru1241,tiy,aust1307,Austronesian
+toar1246,Toaripi,Papunesia,-8.07231,146.206,toar1246,tqo,nucl1580,Eleman
+peta1245,Petats,Papunesia,-5.34068,154.593,peta1245,pex,aust1307,Austronesian
+east2440,East Makian,Papunesia,0.07337,127.423,east2440,mky,aust1307,Austronesian
+pamp1243,Pampanga,Papunesia,14.9603,120.502,pamp1243,pam,aust1307,Austronesian
+tamn1235,Tamnim Citak,Papunesia,-5.57962,139.233,tamn1235,tml,nucl1709,Nuclear Trans New Guinea
+lena1238,Lenakel,Papunesia,-19.4763,169.261,lena1238,tnl,aust1307,Austronesian
+paiw1248,Paiwan,Papunesia,22.3271,120.806,paiw1248,pwn,aust1307,Austronesian
+bumb1241,Bumbita Arapesh,Papunesia,-3.65508,142.859,bumb1241,aon,nucl1708,Nuclear Torricelli
+sout2856,South Efate,Papunesia,-17.7006,168.377,sout2856,erk,aust1307,Austronesian
+motl1237,Mwotlap,Papunesia,-13.655015,167.706277,motl1237,mlv,aust1307,Austronesian
+tele1256,Telefol,Papunesia,-5.07444,141.731,tele1256,tlf,nucl1709,Nuclear Trans New Guinea
+dadi1250,Dadibi,Papunesia,-6.65765,144.511,dadi1250,mps,tebe1251,Teberan
+wari1266,Waris,Papunesia,-3.139,140.931,wari1266,wrs,bord1247,Border
+ning1273,Ningil,Papunesia,-3.49733,142.251,ning1273,niz,nucl1708,Nuclear Torricelli
+matb1237,Matbat,Papunesia,-1.8801,130.075,matb1237,xmt,aust1307,Austronesian
